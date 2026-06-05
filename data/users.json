@@ -1,0 +1,29 @@
+[
+  {
+    "id": "user_8w6itsf5y",
+    "email": "k@gmail.com",
+    "fullName": "h",
+    "tariff": "PLUS",
+    "role": "client",
+    "createdAt": "2026-06-04T18:38:27.065Z",
+    "password": "2"
+  },
+  {
+    "id": "user_mediator_1",
+    "email": "mediator@mizan.uz",
+    "fullName": "Sharipov Aziz (Professional Mediator)",
+    "tariff": "MAX",
+    "role": "mediator",
+    "createdAt": "2026-06-04T19:00:00.000Z",
+    "password": "123"
+  },
+  {
+    "id": "user_8ftsozrkj",
+    "email": "sd@gmail.com",
+    "fullName": "z",
+    "tariff": "PLUS",
+    "role": "client",
+    "createdAt": "2026-06-05T07:09:01.856Z",
+    "password": "a"
+  }
+]
